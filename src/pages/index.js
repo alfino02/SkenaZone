@@ -1,0 +1,12 @@
+import Home from './Home';
+import Profile from './Profile';
+import Remind from './Remind';
+import ConcertDetail from './ConcertDetail';
+import SearchInfo from './SearchInfo';
+import AddInfo from './AddInfo';
+import MyInfo from './myInfo';
+import EditInfo from './EditInfo';
+import Login from "./Login";
+import Register from "./Register";
+import SplashScreen from "./SplashScreen";
+export {Home, Profile, Remind, ConcertDetail, SearchInfo, AddInfo, MyInfo, EditInfo, Login, Register, SplashScreen};

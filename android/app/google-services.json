@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318606664083",
+    "project_id": "zeuteeapp",
+    "storage_bucket": "zeuteeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318606664083:android:b898d3a6319164a26b0866",
+        "android_client_info": {
+          "package_name": "com.zeuteeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5T8ivtAq-1lgxyYnbIbm7_z74W9UDZ-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
